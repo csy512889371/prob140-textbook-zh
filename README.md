@@ -1,4 +1,4 @@
-# 数据科学的原理与技巧 中文版
+# 面向数据科学的概率论 中文版
 
 原书：[prob140/textbook](https://github.com/prob140/textbook/)
 
